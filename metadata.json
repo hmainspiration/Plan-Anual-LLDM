@@ -1,0 +1,5 @@
+{
+  "name": "Annual Work Plan Generator",
+  "description": "An intuitive web application to create and manage an Annual Work Plan for a church, with the ability to export the final plan as an Excel file. Each area has a distinctly colored tab for better visual organization.",
+  "requestFramePermissions": []
+}
