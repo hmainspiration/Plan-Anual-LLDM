@@ -9,7 +9,7 @@ interface HeaderProps {
 const Header: React.FC<HeaderProps> = ({ churchName, onChurchNameChange }) => {
     return (
         <header className="bg-white shadow-lg rounded-lg p-6 mb-6">
-            <h1 className="text-2xl sm:text-3xl font-bold text-gray-800">Plan de Trabajo Anual</h1>
+            <h1 className="text-2xl sm:text-3xl font-bold text-gray-800">Plan de Trabajo Anual 2025-2026</h1>
             <p className="text-gray-600 mt-1">Ingresa los datos del plan de trabajo de una forma más intuitiva.</p>
             <div className="mt-4">
                 <label htmlFor="churchName" className="block text-sm font-medium text-gray-700">Nombre de la Iglesia:</label>

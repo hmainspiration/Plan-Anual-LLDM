@@ -1,0 +1,15 @@
+{
+  "short_name": "Plan Anual",
+  "name": "Generador de Plan de Trabajo Anual",
+  "icons": [
+    {
+      "src": "icon-192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#f1f5f9"
+}
